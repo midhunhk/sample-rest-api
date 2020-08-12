@@ -1,7 +1,5 @@
 # sample-rest-api
-An example rest api built on express
-
-Deployed on Heroku, with the below API
+An example rest api built on ExpressJS and deployed to Heroku
 
 ## Books
 
