@@ -25,6 +25,7 @@ router.get('/:bookId', (req, res) => {
 })
 
 router.get('/title/:query', (req, res) => {
+    // TODO urldecode query
     const books = booksData.filter( item => {
         return item.title.toLowerCase().includes(req.params.query.toLowerCase())
     })
