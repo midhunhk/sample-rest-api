@@ -9,9 +9,11 @@ Get all Books
 https://a-sample-rest-api.herokuapp.com/books
 
 Get a book by isbn
-https://a-sample-rest-api.herokuapp.com/books/<isbn>
-https://a-sample-rest-api.herokuapp.com/books/9781452173054
+https://a-sample-rest-api.herokuapp.com/books/<isbn> 
+
+e.g; https://a-sample-rest-api.herokuapp.com/books/9781452173054
 
 Search by title
-https://a-sample-rest-api.herokuapp.com/books/title/<search term>
-https://a-sample-rest-api.herokuapp.com/books/title/flower
+https://a-sample-rest-api.herokuapp.com/books/title/<search term> 
+
+e.g; https://a-sample-rest-api.herokuapp.com/books/title/flower
