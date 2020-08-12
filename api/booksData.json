@@ -1,0 +1,38 @@
+[
+    {
+        "isbn": "9781593275846",
+        "title": "Eloquent JavaScript, Second Edition",
+        "author": "Marijn Haverbeke",
+        "publish_date": "2014-12-14",
+        "publisher": "No Starch Press",
+        "numOfPages": "472",
+        "url": "https://via.placeholder.com/600/92c952"
+    },
+    {
+        "isbn": "9781452173054",
+        "title": "Floret Farm\"s A Year in Flowers",
+        "author": "Erin Benzakein",
+        "publish_date": "2020-12-14",
+        "publisher": "No Starch Press",
+        "numOfPages": "304",
+        "url": "http://books.google.com/books/content?id=GxXGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "isbn": "9781465495532",
+        "title": "The Flower Book",
+        "author": "Rachel Siegfried",
+        "publish_date": "2017-02-17",
+        "publisher": "Penguin",
+        "numOfPages": "224",
+        "url": "http://books.google.com/books/content?id=WVLXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "isbn": "9789769505780",
+        "title": "Flowers of Trinidad and Tobago",
+        "author": "J. S. Kenny",
+        "publish_date": "2006",
+        "publisher": "Prospect Press",
+        "numOfPages": "140",
+        "url": "http://books.google.com/books/content?id=OP8C9mKQxAMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    }
+]
