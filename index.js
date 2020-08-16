@@ -13,7 +13,7 @@ app.use( bodyParser.urlencoded({extended: false}) )
 app.use( bodyParser.json() )
 
 // Handle http requests
-app.get('/', (req, res) => { return res.send('Received a GET HTTP method') })
+app.get('/', (req, res) => { return res.send('The API is up and running!') })
 
 // Add additional routes
 app.use('/books', booksRoute)
