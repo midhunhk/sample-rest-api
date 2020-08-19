@@ -1,0 +1,29 @@
+[
+    {
+        "id": "100001",
+        "name": "Hilton Garden Inn Toronto Downtown",
+        "location": "Toronto, 1.1 miles from Billy Bishop Airport",
+        "description": "Ideally located in the Entertainment District area, Hilton Garden Inn Toronto Downtown promises a relaxing and wonderful visit. Both business travelers and tourists can enjoy the property's facilities and services. Service-minded staff will welcome and guide you at Hilton Garden Inn Toronto Downtown. Each guestroom is elegantly furnished and equipped with handy amenities. The property offers various recreational opportunities. Convenience and comfort make Hilton Garden Inn Toronto Downtown the perfect choice for your stay in Toronto (ON).",
+        "ratingValue": "8.1",
+        "rating": "Very Good",
+        "imageUrl": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/95/30/953087_v7.jpeg"
+    },
+    {
+        "id": "100002",
+        "name": "Double Tree by Hilton Toronto",
+        "location": "Toronto, 1.0 miles to Royal Ontario Museum",
+        "description": "Centrally located, just a seven-minute walk from Yonge-Dundas Square, DoubleTree by Hilton Toronto Downtown offers attractive amenities, including a heated indoor pool and sauna. Rooms at DoubleTree by Hilton Toronto Downtown feature flat-screen TVs and Wi-Fi, plus dedicated workspaces. Coffee-makers and safes offer additional conveniences. Suites, meanwhile, include full kitchens and a living room with sofa bed. Guests have access to a 24-hour gym, as well as business centre that's open around the clock. This property boasts 13,000 square feet of meeting and event space, too. Travellers can dine at either of the hotel's two on-site restaurants: Hemisphere's, offering international fare, or Lai Wah Heen, specialising in Hong Kong and Asian cuisine. Made Market, the hotel's convenience store, offers light refreshments 24 hours a day. The Art Gallery of Ontario is eight minutes away from the hotel on foot. Additionally, the Ed Mirvish Theatre is 700 metres away on foot. Kensington Market is under 15 minutes away via public transit.",
+        "ratingValue": "8.3",
+        "rating": "Very Good",
+        "imageUrl": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/44/16/44165_v8.jpeg"
+    },
+    {
+        "id": "100003",
+        "name": "One King West Hotel and Residence",
+        "location": "Toronto, 1.5 miles to Royal Ontario Museum",
+        "description": "Centrally located in the heart of Toronto, One King West Hotel & Residence is directly connected, via walkway, to the Eaton Center mall and the subway system. Guests can utilise on-site fitness facilities and free Wi-Fi. All suites are stylishly decorated and include well-equipped kitchenettes, an LED television and a private bathroom that comes with complimentary toiletries and a hairdryer. Wi-Fi is available for an additional charge and a daily housekeeping service is provided. One King West is located close to Toronto’s entertainment, business and entertainment districts which feature shops, bars and restaurants. This accommodation is also known as King One Hotel, King One West, King West Hotel, and King West One.",
+        "ratingValue": "8.6",
+        "rating": "Excellent",
+        "imageUrl": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_450,q_auto,w_450/itemimages/10/10/101024_v7.jpeg"
+    }
+]
