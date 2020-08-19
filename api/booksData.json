@@ -2,37 +2,61 @@
     {
         "isbn": "9781593275846",
         "title": "Eloquent JavaScript, Second Edition",
+        "subtitle" : "",
         "author": "Marijn Haverbeke",
         "publish_date": "2014-12-14",
         "publisher": "No Starch Press",
         "numOfPages": "472",
+        "description": "This is a book about JavaScript, programming, and the wonders of the digital. You can read it online, or get your own paperback copy of the book.",
+        "infoLink": "https://eloquentjavascript.net/2nd_edition/",
         "url": "https://via.placeholder.com/600/92c952"
+    },
+    {
+        "isbn": "9781452177397",
+        "title": "The Field Guide to Dumb Birds of North America",
+	"subtitle": "",
+        "author": "Matt Kracht",
+        "publish_date": "2019-04-02",
+        "publisher": "Chronicle Books",
+        "numOfPages": "176",
+        "description": "Perfect for the anti-aviary (or bird fanatic with a sense of humor), this snarky illustrated handbook is equal parts profane, funny, and—let's face it—true. Featuring 50 common North American birds, such as the White-Breasted Butt Nugget and the Goddamned Canada Goose (or White-Breasted Nuthatch and Canada Goose for the layperson), Kracht identifies all the idiots in your backyard and details exactly why they suck with humorous, yet angry, ink drawings. Each entry is accompanied by facts about a bird's (annoying) call, its (dumb) migratory pattern, its (downright tacky) markings, and more. With migratory maps and tips for birding, plus musings on the avian population and the ethics of birdwatching, this is the essential guide to all things wings. No need to wonder what all that racket is anymore!",
+        "infoLink": "https://play.google.com/store/books/details?id=9OtzDwAAQBAJ&source=gbs_api",
+        "url": "http://books.google.com/books/content?id=9OtzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
         "isbn": "9781452173054",
         "title": "Floret Farm\"s A Year in Flowers",
+        "subtitle": "Designing Gorgeous Arrangements for Every Season",
         "author": "Erin Benzakein",
         "publish_date": "2020-12-14",
         "publisher": "No Starch Press",
         "numOfPages": "304",
+        "infoLink": "https://play.google.com/store/books/details?id=GxXGDwAAQBAJ&source=gbs_api",
+        "description": "Learn how to buy, style, and present seasonal flower arrangements for every occasion. With sections on tools, flower care, and design techniques, Floret Farm's A Year in Flowers presents all the secrets to arranging garden-fresh bouquets. Featuring expert advice from Erin Benzakein, world-renowned flower farmer, floral designer, and bestselling author of Floret Farm: Cut Flower Garden, this book is a gorgeous and comprehensive guide to everything you need to make your own incredible arrangements all year long, whether harvesting flowers from the backyard or shopping for blooms at the market. • Includes an A–Z flower guide with photos and care tips for more than 200 varieties. • Simple-to-follow advice on flower care, material selection, and essential design techniques • More than 25 how-to projects, including magnificent centerpieces, infinitely giftable posies, festive wreaths, and breathtaking bridal bouquets Floret Farm's A Year in Flowers offers advice on every phase of working with cut flowers—including gardening, buying, caring for, and arranging fresh flowers. Brimming with indispensable tips and hundreds of vibrant photographs, this book is an invitation to live a flower-filled life and perfect for anyone who loves flowers. • The definitive guide to flower arranging from the biggest star in the farm-to-centerpiece movement • Perfect for flower lovers, avid and novice gardeners, floral designers, wedding planners, florists, small farmers, stylists, designers, crafters, and those passionate about the local floral movement • For those who loved Floret Farm's Cut Flower Garden by Erin Benzakein, The Flower Recipe Book by Alethea Harampolis, Seasonal Flower Arranging by Ariella Chezar, and The Flower Chef by Carly Cylinder",
         "url": "http://books.google.com/books/content?id=GxXGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
         "isbn": "9781465495532",
         "title": "The Flower Book",
+        "subtitle": "Let the Beauty of Each Bloom Speak for Itself",
         "author": "Rachel Siegfried",
         "publish_date": "2017-02-17",
         "publisher": "Penguin",
         "numOfPages": "224",
+        "description": "The Flower Book explores 60 flowers, bloom-by-bloom in stunning portraiture. Lush macrophotography allows readers to see the details of each featured flower up close, from the amaryllis in spring, snapdragon in summer, and dahlia in fall to tropical wonders such as orchids and more. Intimate portraits of each flower include quick-reference profiles with tips for choosing the best blooms, care for cut stems, arranging recommendations, colors, shapes, and even growing tips to transform the home, from yard to tabletop. Gorgeous photographs throughout spotlight 30 sample floral arrangements that show how to design and build custom floral arrangements using featured blooms. Plus, a step-by-step techniques section walks beginners through the basics of foliage and fillers, bouquets, and arrangements to make this book as practical as it is beautiful. The Flower Book celebrates all the wonderful qualities of flowers-their sheer beauty, infinite variety, and power to evoke admiration-bloom by exquisite bloom.",
+        "infoLink": "https://play.google.com/store/books/details?id=WVLXDwAAQBAJ&source=gbs_api",
         "url": "http://books.google.com/books/content?id=WVLXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
         "isbn": "9789769505780",
         "title": "Flowers of Trinidad and Tobago",
+        "subtitle": "",
         "author": "J. S. Kenny",
         "publish_date": "2006",
         "publisher": "Prospect Press",
         "numOfPages": "140",
+        "description": "The axis of the inflorescence is the rachis; its branches are peduncles, and <br> individual <b>flowers</b> are borne on pedicels. There may be bracts or leaflike <br> structures at the bases of the peduncles.",
+        "infoLink": "http://books.google.ca/books?id=OP8C9mKQxAMC&dq=flowers&hl=&source=gbs_api",
         "url": "http://books.google.com/books/content?id=OP8C9mKQxAMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     }
 ]
