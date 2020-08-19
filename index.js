@@ -6,6 +6,7 @@ const app = express()
 const PORT = process.env.PORT || '3000'
 
 const booksRoute = require('./api/books')
+const hotelsRoute = require('./api/hotels')
 
 // Use middleware
 app.use( cors() )
@@ -17,6 +18,7 @@ app.get('/', (req, res) => { return res.send('Received a GET HTTP method') })
 
 // Add additional routes
 app.use('/books', booksRoute)
+app.use('/hotels', hotelsRoute)
 
 // Start the server
 app.listen(PORT, () => console.log(`Running on port ${PORT}`) )
